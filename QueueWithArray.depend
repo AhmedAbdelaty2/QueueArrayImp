@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1638272939 source:d:\iti\labs\data structure and algorithm\lab2\bin\queuewitharray\main.c
+	<stdio.h>
+	<stdlib.h>
+
